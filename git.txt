@@ -3,3 +3,5 @@ git config --global user.email "xuxf@163.com"
 
 git add git.txt
 git commit -m "git.txtÃ·Ωª"
+
+git diff git.txt
