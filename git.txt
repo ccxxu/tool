@@ -7,3 +7,8 @@ git commit -m "git.txtÌá½»"
 git diff git.txt
 
 asdadsadasdasdasdas
+
+git reset --hard^
+git reset --hard~100
+git reflog
+git reset --hard °æ±¾ºÅ
